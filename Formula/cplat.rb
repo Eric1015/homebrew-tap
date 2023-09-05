@@ -8,5 +8,4 @@ class Cplat < Formula
   def install
     bin.install "cplat"
   end
-
 end
